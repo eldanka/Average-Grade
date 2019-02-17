@@ -1,0 +1,7 @@
+C:\Users\Zen Masters\Documents\C#\AverageGrade\AverageGrade\bin\Debug\AverageGrade.exe.config
+C:\Users\Zen Masters\Documents\C#\AverageGrade\AverageGrade\bin\Debug\AverageGrade.exe
+C:\Users\Zen Masters\Documents\C#\AverageGrade\AverageGrade\bin\Debug\AverageGrade.pdb
+C:\Users\Zen Masters\Documents\C#\AverageGrade\AverageGrade\obj\Debug\AverageGrade.csprojAssemblyReference.cache
+C:\Users\Zen Masters\Documents\C#\AverageGrade\AverageGrade\obj\Debug\AverageGrade.csproj.CoreCompileInputs.cache
+C:\Users\Zen Masters\Documents\C#\AverageGrade\AverageGrade\obj\Debug\AverageGrade.exe
+C:\Users\Zen Masters\Documents\C#\AverageGrade\AverageGrade\obj\Debug\AverageGrade.pdb
